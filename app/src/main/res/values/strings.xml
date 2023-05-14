@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MovieApp</string>
+
+    <string name="title_home">Home</string>
+    <string name="title_tickets">Tickets</string>
+    <string name="title_bookmarks">Bookmarks</string>
+
+    <string name="desc_home">Notification list</string>
+    <string name="movie_title">Movie title</string>
+    <string name="default_imdb_rating">IMDb rating: 8,1</string>
+</resources>
